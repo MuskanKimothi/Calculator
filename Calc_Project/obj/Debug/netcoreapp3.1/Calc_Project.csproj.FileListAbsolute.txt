@@ -1,0 +1,16 @@
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.csproj.AssemblyReference.cache
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.csproj.GenerateResource.cache
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.AssemblyInfoInputs.cache
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.AssemblyInfo.cs
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.csproj.CoreCompileInputs.cache
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.Form1.resources
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\bin\Debug\netcoreapp3.1\Calc_Project.exe
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\bin\Debug\netcoreapp3.1\Calc_Project.deps.json
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\bin\Debug\netcoreapp3.1\Calc_Project.runtimeconfig.json
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\bin\Debug\netcoreapp3.1\Calc_Project.runtimeconfig.dev.json
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\bin\Debug\netcoreapp3.1\Calc_Project.dll
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\bin\Debug\netcoreapp3.1\Calc_Project.pdb
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.dll
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.pdb
+C:\Users\muskan.kimothi\source\repos\Calc_Project\Calc_Project\obj\Debug\netcoreapp3.1\Calc_Project.genruntimeconfig.cache
