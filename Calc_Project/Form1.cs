@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -145,6 +145,13 @@ namespace Calc_Project
             count = 0;
         }
 
+        private void btndivide_Click_1(object sender, EventArgs e)
+        {
+            num1 = float.Parse(button15.Text);
+            button15.Clear();
+            button15.Focus();
+            count = 4;
+        }
 
         private void button15_Click(object sender, EventArgs e)
         {
